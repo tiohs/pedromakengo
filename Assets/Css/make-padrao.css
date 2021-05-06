@@ -1,0 +1,138 @@
+/* BG-COLOR */
+:root {
+  --theme: #007bff;
+  --dark: #000000cc;
+}
+.bg_dark {
+  background: var(--dark);
+}
+
+/* Background */
+.background_servico {
+  width: 600px;
+  height: 500px;
+  z-index: 1;
+}
+.background_servico img {
+  width: 78%;
+  position: relative;
+  top: 30px;
+}
+
+/* Form */
+form input,
+form textarea {
+  background: none !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+  border-top: 0 !important;
+  border-bottom: 2px solid #fff !important;
+  border-radius: 0 !important;
+  padding: 20px 0 !important;
+}
+
+/* Melhorar o row */
+.linha_normais {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Cards */
+.card_mk {
+  background: #000000ee;
+  border: 1px solid #000000ee;
+  -webkit-border: 1px solid #000000ee;
+  -moz-border: 1px solid #000000ee;
+  height: 325px;
+  border-radius: 5px;
+  transition: all 2s;
+}
+.card_mk:hover {
+  background: #030303bb;
+  cursor: pointer;
+  transition: all 2s;
+  transform: scale(1.1, 1.1);
+}
+.card_mk .bg_dark {
+  background: #000000;
+}
+.image_mk {
+  background: #aa0b0b !important;
+  opacity: 0.6;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Estrelas */
+.starts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.starts li {
+  display: inline-block;
+  margin: 5px;
+}
+.starts li img {
+  width: 20px;
+}
+
+/* Top Scroll */
+#topScroll {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 3px solid #00000093;
+  position: fixed;
+  bottom: 20px;
+  right: 126px;
+  z-index: 1;
+}
+
+/* Slider Navegação */
+.owl-dots,
+.owl-nav {
+  display: none;
+}
+
+/* Footer */
+footer {
+  background: #000;
+  padding: 5px 0;
+  color: #fff !important;
+}
+
+/* Animação */
+@keyframes animarImagem {
+  0% {
+    background: #ffffff;
+    top: 20px;
+    border-radius: 20%;
+  }
+  50% {
+    background: #ffffff;
+    top: 40px;
+    border-radius: 50%;
+  }
+  100% {
+    background: #ffffff;
+    top: 60px;
+    border-radius: 30% 70% 70% 30% / 10% 30% 70% 70%;
+  }
+}
+.animarImagem {
+  background: #ffffff;
+  animation: animarImagem 3s ease infinite alternate;
+}
+
+@keyframes topSkil {
+  from {
+    top: 25px;
+  }
+  to {
+    top: 40px;
+  }
+}
+.top {
+  animation: topSkil 3s ease infinite alternate;
+}
