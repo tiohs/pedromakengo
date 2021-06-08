@@ -11,8 +11,8 @@ I´m passionate about solving problems and learning. Always ope to new challenge
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="20"/></p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroMakengo&show_icons=true" width="300" alt="Pedro Makengo"/> 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=PedroMakengo&show_icons=true" width="500" alt="Pedro Makengo"/> 
 </p>
 
 #### "" 🤓😎 My motto: Focus, determination, humility and plenty of discipline ""
