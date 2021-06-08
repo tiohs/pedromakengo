@@ -1,6 +1,6 @@
 <h2 align="left">Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Makengo, im very glad that you're looking at my profile</h2>
 <h3 align="center">I'm a frontend developer, and technologies enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroMakengo" alt="Pedro Makengo" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/61626420?s=60&v=4" alt="Pedro Makengo" /> </p>
 
 - 💬 You can talk to me about **JavaScript, PHP, Node, HTML, CSS, SQL**
 - 👨‍💻 All of my projects are available here on github
