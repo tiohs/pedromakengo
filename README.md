@@ -1,4 +1,4 @@
-<h1 align="center">Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Makengo, im very glad that you're looking at my profile</h1>
+<h2 align="left">Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Makengo, im very glad that you're looking at my profile</h2>
 <h3 align="center">I'm a frontend developer, and technologies enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroMakengo" alt="Pedro Makengo" /> </p>
 
