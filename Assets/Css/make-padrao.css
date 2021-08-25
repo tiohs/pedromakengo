@@ -107,6 +107,10 @@ footer {
   color: #fff !important;
 }
 
+.social {
+  background-color: #000;
+}
+
 /* Animação */
 @keyframes animarImagem {
   0% {
