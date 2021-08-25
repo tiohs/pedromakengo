@@ -11,7 +11,14 @@ body {
 }
 body::-webkit-scrollbar {
   width: 10px;
+  height: 50px;
+  background: black;
 }
+
+.container {
+  width: 70%;
+}
+
 .menu_nav_desktop {
   margin: 0;
   padding: 0;
@@ -64,7 +71,8 @@ body::-webkit-scrollbar {
 /* Conhecimento */
 .conhecimento {
   background: #000000cc;
-  height: 800px;
+  height: auto;
+  padding-bottom: 3rem;
   color: #fff;
 }
 
@@ -105,14 +113,14 @@ body::-webkit-scrollbar {
 
 /* Contactos */
 .contactos {
-  height: 500px;
+  height: auto;
   background-image: linear-gradient(#000000ee, #000000ee),
     url(../Img/Banners/7-min.png);
   color: #fff !important;
 }
 .background_img {
   position: relative;
-  top: -30px;
+  top: -80px;
   width: 400px;
   height: 300px;
   z-index: 1;
@@ -120,11 +128,25 @@ body::-webkit-scrollbar {
 .background_img img {
   width: 108%;
   position: relative;
-  top: 30px;
+  top: -20px;
 }
 
 .navegation_mobile {
   display: none;
+}
+
+/* Title */
+.title {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 3rem;
+  text-transform: uppercase;
+
+  margin: 2rem 0;
+
+  color: #ffffff79;
+  /*-webkit-text-stroke-width: 1px;  largura da borda */
+  /*-webkit-text-stroke-color: #fff;  cor da borda */
 }
 
 /* Telefones */
