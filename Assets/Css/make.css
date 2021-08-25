@@ -2,13 +2,16 @@
   font-family: Qanela_Soft;
   src: url(../Fonts/Radomir\ Tinkov\ \ QanelasSoftRegular.otf);
 }
+
 html {
   scroll-behavior: smooth;
 }
+
 body {
   font-family: Qanela_Soft;
   font-weight: 400;
 }
+
 body::-webkit-scrollbar {
   width: 10px;
   height: 50px;
@@ -23,18 +26,22 @@ body::-webkit-scrollbar {
   margin: 0;
   padding: 0;
   list-style: none;
+  font-family: Roboto;
 }
+
 .menu_nav_desktop li {
   display: inline-block;
 }
+
 .menu_nav_desktop li a {
   padding: 30px 20px;
   position: relative;
   display: block;
   color: #fff;
+  font-family: Roboto;
   font-size: 1.1em;
-  /* font-weight: 600; */
 }
+
 .menu_nav_desktop li a:hover {
   text-decoration: none;
 }
@@ -46,19 +53,30 @@ body::-webkit-scrollbar {
     url(../Img/Banners/fundo-min.jpg);
   background-size: 100%;
 }
+
 .banners_photo .fundo {
-  padding: 80px 0 !important;
+  padding: 50px 0 !important;
+  font-family: Roboto;
 }
+
+.banners_photo .fundo h1 {
+  font-size: 3.8rem;
+}
+
+.banners_photo .fundo h2 {
+  font-weight: 100;
+}
+
 .banners_photo .content {
   padding: 80px 0;
 }
+
 .borda_imagem {
   width: 400px;
   height: 400px;
   background: #00000093;
   border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
   position: relative;
-  /* top: 40px; */
 }
 
 /* Element-Left */
@@ -147,6 +165,18 @@ body::-webkit-scrollbar {
   color: #ffffff79;
   /*-webkit-text-stroke-width: 1px;  largura da borda */
   /*-webkit-text-stroke-color: #fff;  cor da borda */
+}
+
+.borda-line {
+  padding: 1rem 0;
+  border: 1px solid #9c9c9c79;
+  border-radius: 0.25rem;
+  margin: 2rem 0;
+}
+
+.borda-line h1 {
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 /* Telefones */
