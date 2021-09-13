@@ -16,7 +16,6 @@ I´m passionate about solving problems and learning. Always ope to new challenge
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroMakengo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Rafa-yoda" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_kAcs7pX9.png">
 </div>
   
   ##
